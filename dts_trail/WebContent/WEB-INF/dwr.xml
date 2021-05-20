@@ -1,0 +1,24 @@
+<!DOCTYPE dwr PUBLIC "-//GetAhead Limited//DTD Direct Web Remoting 3.0//EN" 
+	"http://getahead.org/dwr//dwr30.dtd">
+<dwr>
+<allow>
+<create creator="new" javascript="User_dao">
+<param name="class" value="dao.User_dao" />
+</create>
+<create creator="new" javascript="Projects_dao">
+<param name="class" value="dao.Projects_dao" />
+</create>
+<create creator="new" javascript="Bug_dao">
+<param name="class" value="dao.Bug_dao" />
+</create>
+<create creator="new" javascript="Sol_dao">
+<param name="class" value="dao.Sol_dao"/>
+</create>
+<create creator="new" javascript="File_dao">
+<param name="class" value="dao.File_dao"/>
+</create>
+<create creator="new" javascript="Com_ser_dao">
+<param name="class" value="dao.Com_ser_dao"/>
+</create>
+</allow>
+</dwr>

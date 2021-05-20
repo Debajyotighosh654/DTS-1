@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+#label_username{
+		
+	
+	font:bolder;
+	font-weight: 1000;
+}
+#label_password{
+	font:bolder;	
+}
+#box_username{
+	font:bolder;
+	border-bottom-style: ridge;
+	border-left-style: ridge;
+	border-right-style: ridge;
+	border-top-style: ridge;
+	font-size: small;
+	font-family: sans-serif;
+}
+#box_password{
+	font:bolder;
+	border-bottom-style: ridge;
+	border-left-style: ridge;
+	border-right-style: ridge;
+	border-top-style: ridge;
+	font-family: sans-serif;
+}

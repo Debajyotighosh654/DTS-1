@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+#logo_image{
+	margin-left: 460px;
+	
+}
+
+#title{
+	font-family: serif;
+	font-weight: bolder;
+	}
+#motto{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: small;
+	}
